@@ -2,7 +2,6 @@ class Point():
     def __init__(self, x, y):
         self.x = x
         self.y = y
-        self._z = 1
         print(f'I started in {self.x} {self.y}')
 
     def __del__(self):
