@@ -39,5 +39,5 @@ class Dota(Warcraft):  # class of another game
         super().__init__()
 
 
-dota = Dota()
+dota = Dota()  """making an example of a Dota class"""
 print(dota.game_type)
