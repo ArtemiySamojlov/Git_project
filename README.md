@@ -16,5 +16,8 @@ python3 OOP programming
 
 ```
 
+Things you need to run my program:
+* [Python]
+* [Terminal]
 
 ** My contacts: +7 968 428 60 58 **
