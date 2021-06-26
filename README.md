@@ -4,9 +4,10 @@
 
 ** There are classes like these: **
 
-* [Конфигурация](#Dota)
-* [Конфигурация](#Warcraft)
-* [Конфигурация](#Point) 
+* [Dota]
+* [Warcraft]
+* [Point]
+
 ** If you want to run some classes and their functions, you need to leave only them and comment other **
 
 
